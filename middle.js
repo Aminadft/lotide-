@@ -27,7 +27,7 @@ const assertArraysEqual = function(arrayOne, arrayTwo) {
 
 
     }
-
+// TEST CODE
 // assertArraysEqual = middle([1], []) ; // returns empty array as its a single item, has no middle
     //middle([1, 2, 3]) // => [2]
 //middle([1, 2, 3, 4, 5]) // => [3] 
