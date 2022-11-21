@@ -7,7 +7,6 @@ describe("#head", () => {
   });
 });
 
-
 //assertEqual(head(["Hello", "Lighthouse", "Labs"]), "Hello");
 //assertEqual(head([]), "Hello"); //undefined
 //assertEqual(head(["Hello"]), "Hello");
